@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: EasyHUMMY
+  m_EditorClassIdentifier: 
+  categoryName: Easy
+  questions:
+  - questionInfo: Apa fungsi utama sistem pernapasan pada manusia
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Mengatur suhu tubuh
+    - Menghasilkan energi dari makanan
+    - Mengambil oksigen dan membuang karbon dioksida
+    - Mengedarkan darah ke seluruh tubuh
+    correctAns: Mengambil oksigen dan membuang karbon dioksida
+  - questionInfo: Apa nama saluran yang menghubungkan rongga hidung dengan trakea?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Faring
+    - Bronkus
+    - Diafragma
+    - Alveolus
+    correctAns: Faring
+  - questionInfo: Di dalam paru-paru, gas oksigen diserap ke dalam darah melalui
+      struktur kecil bernama?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Bronkus
+    - Alveolus
+    - Trakea
+    - Laring
+    correctAns: Alveolus
+  - questionInfo: Apa yang terjadi pada paru-paru saat kita menghembuskan napas?
+    questionType: 0
+    questionImage: {fileID: 21300000, guid: e8a1fa423ecbdac498e60b7e7903b92f, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Paru-paru mengembang
+    - Paru-paru mengempis
+    - Paru-paru tidak berubah
+    - Paru-paru mengisi udara
+    correctAns: Paru-paru mengempis
+  - questionInfo: Mengapa oksigen penting bagi tubuh manusia?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Untuk menghasilkan karbon dioksida
+    - Untuk mengedarkan darah
+    - Untuk menghasilkan energi dalam tubuh
+    - Untuk menyaring makanan
+    correctAns: Untuk menghasilkan energi dalam tubuh

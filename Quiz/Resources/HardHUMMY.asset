@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: HardHUMMY
+  m_EditorClassIdentifier: 
+  categoryName: Hard
+  questions:
+  - questionInfo: Apa fungsi utama dari bronkus dalam sistem pernapasan manusia?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Tempat pertukaran gas
+    - Menghubungkan tenggorokan ke paru-paru
+    - Menyaring udara yang masuk
+    - Menyebarkan udara ke seluruh tubuh
+    correctAns: Menghubungkan tenggorokan ke paru-paru
+  - questionInfo: Penyakit pernapasan yang menyebabkan peradangan kronis pada saluran
+      bronkus disebut?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Asma
+    - Bronkitis
+    - Amfisema
+    - Pneumonia
+    correctAns: Bronkitis
+  - questionInfo: Apa yang terjadi pada paru-paru seseorang yang menderita emfisema?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Saluran pernapasan menjadi sempit dan terinfeksi
+    - Paru-paru kehilangan elastisitasnya dan kesulitan mengeluarkan udara
+    - Terdapat pertumbuhan sel kanker di paru-paru
+    - Terdapat pertumbuhan sel kanker di paru-paru
+    correctAns: Paru-paru kehilangan elastisitasnya dan kesulitan mengeluarkan udara
+  - questionInfo: Kanker paru-paru umumnya disebabkan oleh?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Polusi udara dan kebiasaan merokok
+    - Kurang tidur dan stres
+    - Kekurangan oksigen dalam darah
+    - Konsumsi makanan berlemak
+    correctAns: Polusi udara dan kebiasaan merokok
+  - questionInfo: Bagaimana cara mencegah gangguan seperti bronkitis atau kanker
+      paru-paru?
+    questionType: 1
+    questionImage: {fileID: 21300000, guid: 75aebca464575e2408b64b79628ac85a, type: 3}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 32900000, guid: 140306c0eade8ec4f98db3a0b1d071dd, type: 3}
+    options:
+    - Menghindari merokok dan polusi udara
+    - Banyak tidur dan menghindari olahraga
+    - Menghindari makanan pedas
+    - Tidur lebih dari 10 jam sehari
+    correctAns: Menghindari merokok dan polusi udara
